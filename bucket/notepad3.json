@@ -60,10 +60,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_$version/Notepad3_$version_x64.zip"
+                "url": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_$version/Notepad3_$version_x64_Portable.zip"
             },
             "32bit": {
-                "url": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_$version/Notepad3_$version_x86.zip"
+                "url": "https://github.com/rizonesoft/Notepad3/releases/download/RELEASE_$version/Notepad3_$version_x86_Portable.zip"
             }
         }
     }
